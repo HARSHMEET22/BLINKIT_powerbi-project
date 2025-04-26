@@ -17,7 +17,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/HARSHMEET22/BLINKIT_powerbi-project/blob/main/blinkit%20dashoard.png))
 
 # Outcome
 - A professional, interactive dashboard that provides:
